@@ -1,4 +1,4 @@
-# Analyzing A/B test exercice
+A/B test and logistic regression exercice
 
 This project is organized in an exercice way, where question are asked on the online course, and we are answering them by exploring and analyzing a data set.
 
